@@ -1,48 +1,28 @@
-# (project name)
+# Kambale Kibeho
 
-<!-- describe your project -->
+## born in DRCongo
 
-## Getting Started
+#### He is learning ICT courses in Kenya
 
-<!-- a guide to using this repository -->
+---
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+Born in Goma, NK, DRC, grow up in several neighboring countries
+(Uganda,Rwanda,Kenya). A student who wants to know the deep of the economy to
+help his country. East Africa contries have a strong economy compare to centre
+africa contries.
 
-## Code Quality Checks
+So, For us, congoleses who live in these centre contries, must travel to East
+Afica contries so that we get "how these contries develop them selves" My
+mission is to understand their economy so that I back to my country to develop
+it.
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+**My country: RDCongo**
+![kdk](https://www.swisscontact.org/_ari/b43c0712-22ac-4877-afad-90976cc07853/086495ca7adb1f13a0efd27a2d719611dabc56ca/670/508/og/DRCongo.png)
 
-## Continuous Integration (CI)
+# Flag
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+![Flag](data:image/png;base64,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)
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+![kdk photo](https://avatars.githubusercontent.com/u/93641789?v=4)
 
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+[My GIT Account](https://github.com/kdessaik)
